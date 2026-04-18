@@ -1,8 +1,8 @@
 # MindScreen — AI-Powered Burnout Detection System
 
-Live Demo: https://mindscreen-one.vercel.app/  
-Report (notion): https://www.notion.so/MindScreen-Hackathon-Report-1-34673cf04d62807b802ed356c073edd8?source=copy_link
-video output: https://drive.google.com/file/d/1y9BdfR65UU9eIAlsatfnGedQej_B5wA9/view
+Live Demo: https://mindscreen-one.vercel.app/                 
+Report (notion): https://www.notion.so/MindScreen-Hackathon-Report-1-34673cf04d62807b802ed356c073edd8?source=copy_link            
+video output: https://drive.google.com/file/d/1y9BdfR65UU9eIAlsatfnGedQej_B5wA9/view             
 
 ---
 
